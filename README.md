@@ -1,4 +1,4 @@
-Live frontend hosted link : https://moduleend-assignment-5-kpi8.vercel.app/login
+Live frontend hosted link : https://moduleend-assignment-5-kpi8.vercel.app
 
 backend hosted link : https://moduleend-assignment-5.vercel.app
 
